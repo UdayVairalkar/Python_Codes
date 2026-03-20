@@ -6,3 +6,4 @@ number data type ip/op
 and it also have condion statement 
 also it includes the arthmatic and relational and logical membership operator codes 
 and many codes are in processing that i yet to be uploaded
+ALL CODES HEEERE
