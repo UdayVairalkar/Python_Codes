@@ -14,3 +14,4 @@ g = int(input("enter the first value to multiply a number "))
 h = int (input("enter the second value to mulltiply"))
 mul =g*h
 print("the multiplication is ",mul)
+#there are some sode for multiplication of all and simple calc
