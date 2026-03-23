@@ -6,3 +6,4 @@ print(type(a))
 print(type(name))
 print(type(age))
 print(type(branch))
+#typecasting 
