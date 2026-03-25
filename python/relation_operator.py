@@ -6,4 +6,4 @@ print(a!=b)
 print(a<b)
 print(a<=b)
 print(a>=b)
-#this are the conditonal or we can say relational operator
+#this are operator
